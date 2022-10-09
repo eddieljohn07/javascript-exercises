@@ -1,5 +1,5 @@
 const reverseString = function(_reversedString) {
-    let string = 'hello there';
+    let string = '123! abc!';
     let stringArray = string.split("");
     let backward = stringArray.reverse();
     _reversedString = backward.join('')
